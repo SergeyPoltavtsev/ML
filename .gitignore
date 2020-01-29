@@ -11,3 +11,9 @@
 
 # datasets
 **/data
+
+# archives
+*.zip
+
+# Trained models
+*.pth

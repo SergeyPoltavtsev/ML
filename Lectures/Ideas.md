@@ -1,0 +1,1 @@
+1. [FastAI course v3 lesson 4](https://course.fast.ai/videos/?lesson=4) (35:00) Use random forest for finding best hyperparameters for the model. The original idea comes from Frank Hutter where he shows how to use random forests for hyperparameter optimization.
