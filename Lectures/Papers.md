@@ -1,0 +1,5 @@
+1. [Visualizaing the Loss Landscape of Neural Nets](https://arxiv.org/pdf/1712.09913.pdf)
+2. [A guide to convolution arithmetic for deep learning](https://arxiv.org/pdf/1603.07285.pdf)
+3. [Fixup Initialization: Residual Learning Without Normalization](https://arxiv.org/abs/1901.09321)
+4. [Delving Deep into Rectifiers](https://arxiv.org/abs/1502.01852)
+5. [The matrix calculus you need for deep learning](https://arxiv.org/abs/1802.01528)
